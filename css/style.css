@@ -85,10 +85,10 @@ header{
 /*banner end*/
 /*kid1 start*/
 .kid1{
-	margin-bottom: 40px;
+    margin-bottom: 20px;
 }
 .common-title{
-	margin-top: 70px;
+	margin-top: 20px;
 	margin-bottom: 30px;
 }
 .common-title h1{
@@ -139,7 +139,7 @@ header{
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center;
-	padding: 70px 0;
+	padding: 60px 0;
 }
 
 .kid2-content{}
@@ -164,7 +164,7 @@ header{
 /*kid2 end*/
 /*courses start*/
 .courses{
-	padding: 90px 0;
+	padding: 65px 0;
 }
 
 .course-title{}
@@ -280,7 +280,7 @@ header{
 	background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-    padding: 0 0 60px 0;
+    padding: 50px 0 60px 0;
 
 }
 .moment-content{
@@ -377,7 +377,9 @@ header{
 /*teach start*/
 .teach{
 	background-color: #6e6e6e;
-	padding-bottom: 70px;
+    padding-bottom: 60px;
+    padding-top: 50px;
+
 }
 .custom-teach-title{
 	margin-bottom: 40px;
